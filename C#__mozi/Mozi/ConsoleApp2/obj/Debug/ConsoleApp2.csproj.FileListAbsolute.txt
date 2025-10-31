@@ -1,0 +1,16 @@
+D:\Szunet_projekt\C#__teme\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Szunet_projekt\C#__teme\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Szunet_projekt\C#__teme\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Szunet_projekt\C#__teme\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Szunet_projekt\C#__teme\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Szunet_projekt\C#__teme\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Szunet_projekt\C#__teme\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+D:\Szunet_projekt\C#__teme\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
+D:\Szunet_projekt\C#__mozi\Mozi\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Szunet_projekt\C#__mozi\Mozi\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Szunet_projekt\C#__mozi\Mozi\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Szunet_projekt\C#__mozi\Mozi\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\Szunet_projekt\C#__mozi\Mozi\ConsoleApp2\obj\Debug\ConsoleApp2.exe.config
+D:\Szunet_projekt\C#__mozi\Mozi\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Szunet_projekt\C#__mozi\Mozi\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Szunet_projekt\C#__mozi\Mozi\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
