@@ -1,0 +1,15 @@
+C:\Users\milan\Desktop\ujj_projekt\Utazo_ember\Utazo_ember\bin\Debug\Utazo_ember.exe.config
+C:\Users\milan\Desktop\ujj_projekt\Utazo_ember\Utazo_ember\bin\Debug\Utazo_ember.exe
+C:\Users\milan\Desktop\ujj_projekt\Utazo_ember\Utazo_ember\bin\Debug\Utazo_ember.pdb
+C:\Users\milan\Desktop\ujj_projekt\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.csproj.AssemblyReference.cache
+C:\Users\milan\Desktop\ujj_projekt\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.csproj.CoreCompileInputs.cache
+C:\Users\milan\Desktop\ujj_projekt\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.exe
+C:\Users\milan\Desktop\ujj_projekt\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.pdb
+C:\Users\The King\Desktop\uatzo_ember\Utazo_ember\Utazo_ember\bin\Debug\Utazo_ember.exe.config
+C:\Users\The King\Desktop\uatzo_ember\Utazo_ember\Utazo_ember\bin\Debug\Utazo_ember.exe
+C:\Users\The King\Desktop\uatzo_ember\Utazo_ember\Utazo_ember\bin\Debug\Utazo_ember.pdb
+C:\Users\The King\Desktop\uatzo_ember\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.csproj.AssemblyReference.cache
+C:\Users\The King\Desktop\uatzo_ember\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.exe.config
+C:\Users\The King\Desktop\uatzo_ember\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.csproj.CoreCompileInputs.cache
+C:\Users\The King\Desktop\uatzo_ember\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.exe
+C:\Users\The King\Desktop\uatzo_ember\Utazo_ember\Utazo_ember\obj\Debug\Utazo_ember.pdb
