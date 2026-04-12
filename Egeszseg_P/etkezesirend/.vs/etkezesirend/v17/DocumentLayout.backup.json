@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\The King\\source\\repos\\etkezesirend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|c:\\users\\the king\\source\\repos\\etkezesirend\\etkezesirend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|solutionrelative:etkezesirend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\etkezesek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|solutionrelative:etkezesirend\\etkezesek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\szemelyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|solutionrelative:etkezesirend\\szemelyek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\etelek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|solutionrelative:etkezesirend\\etelek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\desszertek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|solutionrelative:etkezesirend\\desszertek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\italok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85B2188-CD08-45C1-9005-43D22414F376}|etkezesirend\\etkezesirend.csproj|solutionrelative:etkezesirend\\italok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Etelek.cs",
+              "DocumentMoniker": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Etelek.cs",
+              "RelativeDocumentMoniker": "etkezesirend\\Etelek.cs",
+              "ToolTip": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Etelek.cs",
+              "RelativeToolTip": "etkezesirend\\Etelek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:47:13.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Italok.cs",
+              "DocumentMoniker": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Italok.cs",
+              "RelativeDocumentMoniker": "etkezesirend\\Italok.cs",
+              "ToolTip": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Italok.cs",
+              "RelativeToolTip": "etkezesirend\\Italok.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:47:29.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Szemelyek.cs",
+              "DocumentMoniker": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Szemelyek.cs",
+              "RelativeDocumentMoniker": "etkezesirend\\Szemelyek.cs",
+              "ToolTip": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Szemelyek.cs",
+              "RelativeToolTip": "etkezesirend\\Szemelyek.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:36:33.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Program.cs",
+              "RelativeDocumentMoniker": "etkezesirend\\Program.cs",
+              "ToolTip": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Program.cs",
+              "RelativeToolTip": "etkezesirend\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T06:50:31.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Desszertek.cs",
+              "DocumentMoniker": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Desszertek.cs",
+              "RelativeDocumentMoniker": "etkezesirend\\Desszertek.cs",
+              "ToolTip": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Desszertek.cs",
+              "RelativeToolTip": "etkezesirend\\Desszertek.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:47:47.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Etkezesek.cs",
+              "DocumentMoniker": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Etkezesek.cs",
+              "RelativeDocumentMoniker": "etkezesirend\\Etkezesek.cs",
+              "ToolTip": "C:\\Users\\The King\\source\\repos\\etkezesirend\\etkezesirend\\Etkezesek.cs",
+              "RelativeToolTip": "etkezesirend\\Etkezesek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T08:47:59.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
